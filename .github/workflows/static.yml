@@ -2,7 +2,7 @@ name: Deploy Vite site to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["dental-clinic-landing-page-6316627551345916447"]
 
 permissions:
   contents: read
